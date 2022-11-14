@@ -254,11 +254,57 @@
   - AssertionError
   
 <pre id="chap17"><b>Chapter 17 : Development</b><br></pre>
+  - javac command
+  - java command
+  - classpath settings
+  - JAR files
+  - System Properties
+  - JAR vs WAR vs EAR
+  - Web Application vs Enterprise Application
+  - Web Server vs Application Server
+  - How to create executable JAR file?
+  - Ways to run java program
+  - classpath vs path
+  - JDK vs JRE vs JVM
+  - java vs javaw vs javaws
+  
 <pre id="chap18"><b>Chapter 18 : Garbage Collection</b><br></pre>
+  - Introduction
+  - Ways to make an object eligible to GC
+  - Methods for requesting JVM to run GC
+  - Finzalization
+ 
 <pre id="chap19"><b>Chapter 19 : Enumeration</b><br></pre>
+  - Introduction
+  - Internal Implementation of enum
+  - enum declaration & usage
+  - enum vs switch
+  - enum vs inheritance
+  - java.lang.Enum
+  - ordinal() method
+  - Speciality of java enum
+  - enum vs constructor
+  - enum vs Enum vs Enumeration
+
 <pre id="chap20"><b>Chapter 20 : Internationalization (I18N)</b><br></pre>
+  - Introduction
+  - Locale
+  - NumberFormat
+  - DateFormat
+  
 <pre id="chap21"><b>Chapter 21 : Regular Expression</b><br></pre>
+  - Introduction
+  - Pattern
+  - Matcher
+  - Character Classes
+  - Predefined Character Classes
+  - Quantifiers
+  - Pattern class split() method
+  - String Tokenizer
+  
 <pre id="chap22"><b>Chapter 22 : Concurrent Collections</b><br><br></pre>
+  - ConcurrentHashMap
+  - CopyOnWriteArrayList
+  - CopyOnWriteArraySet
 
 (Credits : Notes are prepared by watching Durga sir's videos from DurgaSoft)
-
