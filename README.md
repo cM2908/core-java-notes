@@ -151,14 +151,108 @@
   - Arrays - Utility Class 2
   
 <pre id="chap8"><b>Chapter 8 : java.lang Package</b><br></pre>
+  - Introduction to java.lang package
+  - Object Class
+  - String Class
+  - StringBuffer Class
+  - StringBuilder Class
+  - Wrapper Class
+  - Autoboxing & Autounboxing
+  
 <pre id="chap9"><b>Chapter 9 : Multithreading</b><br></pre>
+  - Introduction to Multithreading
+  - Ways to define a Thread
+    - By extending Thread Class
+    - By implementing Runnable Interface
+  - Getting & Setting a name of Thread
+  - Thread Priorities
+  - Methods to prevent Thread execution
+    - yield()
+    - join()
+    - sleep()
+  - Synchronization
+  - Inter-Thread Communication
+  - Deadlock
+  - Daemon Threads
+    
 <pre id="chap10"><b>Chapter 10 : Multithreading Enhancement</b><br></pre>
+  - ThreadGroup Class
+  - java.util.concurrent package
+    - Lock (Interface)
+    
 <pre id="chap11"><b>Chapter 11 : JVM Architecture</b><br></pre>
+  - Virtual Machine
+  - Types of Virtual Machine
+    - Hardware based VM
+    - Application based VM
+  - Basic Architecture of VM
+  - Class Loader Subsystem
+    - Loading
+    - Linking
+    - Initialization
+  - Types of Classloaders
+    - Bootstrap CL
+    - Extension CL
+    - Application CL
+  - How classloaders work
+  - Need of customized classloader
+  - Psuedo code of customized classloader
+  - Memory Aread of JVM
+    - Method Area
+    - Heap Area
+    - Stack Area
+    - PC registers
+    - Native method stacks
+  - Program to display head memory stats
+  - How to set Min & Max head size
+  - Execution Engine
+    - Interpreter
+    - JIT Compiler
+  - Java Native Interface (JNI)
+  - Complete Architecture Diagram of JVM
+  - Class file structure
+  
 <pre id="chap12"><b>Chapter 12 : Inner Classes</b><br></pre>
+  - Introduction to Inner Class 
+  - Normal/Regular Inner Class
+  - Method Local Inner Class
+  - Anonymous Inner Class
+    - Normal Java Class vs Anonymous Inner Class
+    - Where Anonymous Inner Class are best suitable
+  - Static Nested Class
+  
 <pre id="chap13"><b>Chapter 13 : File IO</b><br></pre>
+  - File
+  - FileWriter
+  - FileReader
+  - BufferedWriter
+  - BufferedReader
+  - PrintWriter
+  
 <pre id="chap14"><b>Chapter 14 : Serialization</b><br></pre>
+  - Introduction
+  - Object Graph in Serialization
+  - Customized Serialization
+  - Serialization w.r.t Inheritance
+  - Externalization
+  - SerialversionUID
+  
 <pre id="chap15"><b>Chapter 15 : Generics</b><br></pre>
+  - Introduction
+  - Generic Classes
+  - Bounded Types
+  - Generics methods & Wild-card Character (?)
+  - Communication with non-generic code
+  - Conclusions
+  
 <pre id="chap16"><b>Chapter 16 : Assertion</b><br></pre>
+  - Introduction of Assertion
+  - "assert" as a keyword & identifier
+  - Types of assert statement
+  - Various possible runtime flags
+  - Appropriate & Inappropriate use of assertions
+  - AssertionError
+  
 <pre id="chap17"><b>Chapter 17 : Development</b><br></pre>
 <pre id="chap18"><b>Chapter 18 : Garbage Collection</b><br></pre>
 <pre id="chap19"><b>Chapter 19 : Enumeration</b><br></pre>
